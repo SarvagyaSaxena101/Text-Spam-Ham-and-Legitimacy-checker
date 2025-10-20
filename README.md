@@ -10,7 +10,7 @@ A Streamlit web application that classifies messages as spam or ham (not spam) a
 
 ## 🚀 Deployed Link
 
-You can access the deployed application here: [**Spam & Legitimacy Analyzer**](https://your-deployed-link.com)
+You can access the deployed application here: [**Spam & Legitimacy Analyzer**](https://text-spam-ham-and-legitimacy-checker.streamlit.app/)
 
 ## 🧠 The Brains Behind It
 
