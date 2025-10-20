@@ -33,7 +33,7 @@ Here's a flowchart illustrating the workflow of the application:
 graph TD
     A[User Enters Message] --> B{Spam Classification};
     B --> C[BERT Model Classifies Message];
-    C --> D[Display "Spam" or "Ham"];
+    C --> D["Display 'Spam' or 'Ham'"];
 
     E[User Enters Company Name] --> F{Company Legitimacy Check};
     F --> G[Groq API with Llama 3B Analyzes Company];
