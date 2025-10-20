@@ -103,5 +103,5 @@ with col2:
 # --- Footer ---
 st.markdown("---")
 st.markdown(
-    "Created with ❤️ by Sarvam"
+    "Created by Sarvagya"
 )
